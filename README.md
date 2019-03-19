@@ -1,6 +1,6 @@
 <br>
     <p align="center">
-    <img alt="Sarandonga" src="./assets/sarandonga.jpg" width="50%"/>
+    <img alt="Sarandonga" src="./assets/sarandonga.jpg" width="25%"/>
     </p>
 <br>
 
